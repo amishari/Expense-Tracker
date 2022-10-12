@@ -1,4 +1,5 @@
 import './components/ExpenseItem.css';
+import './components/ExpenseDate.css';
 import ExpenseItem from './components/ExpenseItem';
 
 export default function App() {
